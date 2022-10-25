@@ -1,4 +1,4 @@
-// Pedir dos números y decir cual es el mayor.
+// Pedir dos números y decir cual es el mayor
 
 package BOLETÍN;
 

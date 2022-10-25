@@ -1,4 +1,4 @@
-// Pedir un número e indicar si es positivo o negativo.
+// Pedir un número e indicar si es positivo o negativo
 
 package BOLETÍN;
 

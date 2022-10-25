@@ -1,4 +1,4 @@
-// Pedir dos números y decir si son iguales o no.
+// Pedir dos números y decir si son iguales o no
 
 package BOLETÍN;
 

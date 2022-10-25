@@ -1,4 +1,4 @@
-// Pedir el radio de una circunferencia y calcular su longitud.
+// Pedir el radio de una circunferencia y calcular su longitud
 
 package BOLETÍN;
 

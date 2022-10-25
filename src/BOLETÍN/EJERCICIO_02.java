@@ -1,4 +1,4 @@
-// Pedir el radio de un círculo y calcular su área. A=PI*r^2.
+// Pedir el radio de un círculo y calcular su área. A=PI*r^2
 
 package BOLETÍN;
 

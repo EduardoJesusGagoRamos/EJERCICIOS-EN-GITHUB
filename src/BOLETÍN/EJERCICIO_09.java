@@ -1,4 +1,4 @@
-// Pedir dos números y mostrarlos ordenados de mayor a menor.
+// Pedir dos números y mostrarlos ordenados de mayor a menor
 
 package BOLETÍN;
 
