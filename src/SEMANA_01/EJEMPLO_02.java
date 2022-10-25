@@ -1,4 +1,4 @@
-// Realizar un programa que permita mostrar en pantalla el mensaje “HELLO WORLD”
+// Realizar un programa que permita mostrar en pantalla el mensaje “HELLO WORLD”.
 
 package SEMANA_01;
 
